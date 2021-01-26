@@ -1,0 +1,18 @@
+{
+    "0": {
+        "acro": "adc",
+        "full": "Analog-to-Digital Converter",
+        "tags": [
+            "hardware"
+        ],
+        "comment": "In electronics, an analog-to-digital converter (ADC, A/D, or A-to-D) is a system that converts an analog signal, such as a sound picked up by a microphone or light entering a digital camera, into a digital signal."
+    },
+    "1": {
+        "acro": "dma",
+        "full": "Direct Memory Access",
+        "tags": [
+            "hardware"
+        ],
+        "comment": "Direct memory access (DMA) is a feature of computer systems that allows certain hardware subsystems to access main system memory (random-access memory) independent of the central processing unit (CPU). "
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "0": {
+        "acro": "lol",
+        "full": "Laughing Out Loud",
+        "tags": [
+            "social"
+        ]
+    },
+    "1": {
+        "acro": "brb",
+        "full": "Be Right Back",
+        "tags": [
+            "social"
+        ]
+    },
+    "2": {
+        "acro": "afk",
+        "full": "Away From Keyboard",
+        "tags": [
+            "social"
+        ]
+    }
+}
