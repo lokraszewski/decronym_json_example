@@ -1,0 +1,486 @@
+{
+    "meta": {
+        "tags": [
+            "tech"
+        ]
+    },
+    "defs": [
+        {
+            "acro": "ADC",
+            "full": "Analog-to-Digital Converter",
+            "tags": [
+                "hw"
+            ]
+        },
+        {
+            "acro": "hw",
+            "full": "HardWare"
+        },
+        {
+            "acro": "sw",
+            "full": "SoftWare"
+        },
+        {
+            "acro": "ADSL",
+            "full": "Asymmetric Digital Subscriber Line",
+            "tag": [
+                "network"
+            ]
+        },
+        {
+            "acro": "ae",
+            "full": "Application Engineer",
+            "suggested": [
+                "FAE"
+            ]
+        },
+        {
+            "acro": "fae",
+            "full": "Field Application Engineer"
+        },
+        {
+            "acro": "AES",
+            "full": "Advanced Encryption Standard"
+        },
+        {
+            "acro": "AHB",
+            "full": "Advanced High Bus"
+        },
+        {
+            "acro": "ai",
+            "full": "Artificial Intelligence "
+        },
+        {
+            "acro": "aiot",
+            "full": "Artificial Intelligence of Things"
+        },
+        {
+            "acro": "ajax",
+            "full": "Asynchronous JavaScript and XML"
+        },
+        {
+            "acro": "ALGOL",
+            "full": "ALGOrithmic Language"
+        },
+        {
+            "acro": "ALU",
+            "full": "Arithmetic and Logical Unit"
+        },
+        {
+            "acro": "am",
+            "full": "Amplitude Modulation"
+        },
+        {
+            "acro": "amba",
+            "full": "Advanced Microcontroller Bus Architecture"
+        },
+        {
+            "acro": "amp",
+            "full": "Asymmetric Multi-Processing"
+        },
+        {
+            "acro": "AMQP",
+            "full": "Advanced Message Queuing Protocol"
+        },
+        {
+            "acro": "ann",
+            "full": "Artificial Neural Network"
+        },
+        {
+            "acro": "ant",
+            "full": "Another Neat Tool"
+        },
+        {
+            "acro": "apb",
+            "full": "Advanced Peripheral Bus"
+        },
+        {
+            "acro": "api",
+            "full": "Application Programming Interface"
+        },
+        {
+            "acro": "apl",
+            "full": "A Programming Language"
+        },
+        {
+            "acro": "aslr",
+            "full": "Address Space Layout Randomization"
+        },
+        {
+            "acro": "asm",
+            "full": "Algorithmic State Machine"
+        },
+        {
+            "acro": "ASMP",
+            "full": "ASymmetric MultiProcessing"
+        },
+        {
+            "acro": "ast",
+            "full": "Abstract Syntax Tree"
+        },
+        {
+            "acro": "Bash",
+            "full": "Bourne-Again SHell"
+        },
+        {
+            "acro": "BASIC",
+            "full": "Beginner's All-Purpose Symbolic Instruction Code"
+        },
+        {
+            "acro": "bcd",
+            "full": "Binary Coded Decimal"
+        },
+        {
+            "acro": "blob",
+            "full": "Binary Large OBject"
+        },
+        {
+            "acro": "bin",
+            "full": "BINary"
+        },
+        {
+            "acro": "bios",
+            "full": "Basic Input Output System "
+        },
+        {
+            "acro": "bsod",
+            "full": "Blue Screen of Death"
+        },
+        {
+            "acro": "cad",
+            "full": "Computer-Aided Design"
+        },
+        {
+            "acro": "bt",
+            "full": "BlueTooth "
+        },
+        {
+            "acro": "cdc",
+            "full": "Clock Domain Crossing"
+        },
+        {
+            "acro": "CDMA",
+            "full": "Code Division Multiple Access"
+        },
+        {
+            "acro": "cisc",
+            "full": "Complex Instruction Set Computer"
+        },
+        {
+            "acro": "clz",
+            "full": "Count Leading Zeros"
+        },
+        {
+            "acro": "CMSIS",
+            "full": "Cortex Microcontroller Software Interface Standard"
+        },
+        {
+            "acro": "CR",
+            "full": "Carriage Return"
+        },
+        {
+            "acro": "CR",
+            "full": "Code Review"
+        },
+        {
+            "acro": "CRC",
+            "full": "Cyclic Redundancy Check"
+        },
+        {
+            "acro": "CRLF",
+            "full": "Carriage Return Line Feed"
+        },
+        {
+            "acro": "CRT",
+            "full": "Cathode Ray Tube"
+        },
+        {
+            "acro": "db",
+            "full": "Database"
+        },
+        {
+            "acro": "DCLS",
+            "full": "Dual-Core LockStep"
+        },
+        {
+            "acro": "dcu",
+            "full": "Data Cache Unit"
+        },
+        {
+            "acro": "ddos",
+            "full": "Distributed Denial of Service"
+        },
+        {
+            "acro": "ded",
+            "full": "Double Error Detection"
+        },
+        {
+            "acro": "dfs",
+            "full": "Depth-First Search"
+        },
+        {
+            "acro": "dft",
+            "full": "Design For Test/Testability"
+        },
+        {
+            "acro": "dhcp",
+            "full": "Dynamic Host Configuration Protocol"
+        },
+        {
+            "acro": "DIMM",
+            "full": "Dual Inline Memory Module"
+        },
+        {
+            "acro": "dma",
+            "full": "Direct Memory Access"
+        },
+        {
+            "acro": "dmr",
+            "full": "Dennis M. Ritchie"
+        },
+        {
+            "acro": "doa",
+            "full": "Dead On Arrival"
+        },
+        {
+            "acro": "dos",
+            "full": "Disk Operating System"
+        },
+        {
+            "acro": "dpi",
+            "full": "Dots Per Inch"
+        },
+        {
+            "acro": "dpu",
+            "full": "Data Processing Unit"
+        },
+        {
+            "acro": "dram",
+            "full": "Dynamic Random-Access Memory"
+        },
+        {
+            "acro": "drc",
+            "full": "Design Rule Checks/Checking"
+        },
+        {
+            "acro": "dsa",
+            "full": "Digital Signature Algorithm"
+        },
+        {
+            "acro": "dsl",
+            "full": "Digital Subscriber Line"
+        },
+        {
+            "acro": "dsp",
+            "full": "Digital Signal Processing/Processor"
+        },
+        {
+            "acro": "dut",
+            "full": "Device Under Test"
+        },
+        {
+            "acro": "vcs",
+            "full": "Version Control System"
+        },
+        {
+            "acro": "dvd",
+            "full": "Digital Versatile Disc"
+        },
+        {
+            "acro": "dvfs",
+            "full": "Dynamic Voltage and Frequency Scaling"
+        },
+        {
+            "acro": "dvi",
+            "full": "Digital Visual Interface"
+        },
+        {
+            "acro": "ecb",
+            "full": "Electronic CodeBook"
+        },
+        {
+            "acro": "ECC",
+            "full": "Elliptic Curve Cryptography"
+        },
+        {
+            "acro": "EEC",
+            "full": "Error Correction Code"
+        },
+        {
+            "acro": "eeprom",
+            "full": "Electronically Erasable Programmable Read-Only Memory"
+        },
+        {
+            "acro": "EFI",
+            "full": "Extensible Firmware Interface"
+        },
+        {
+            "acro": "EMACS",
+            "full": "Editor MACroS"
+        },
+        {
+            "acro": "EOF",
+            "full": "End of File"
+        },
+        {
+            "acro": "FET",
+            "full": "Field Effect Transistor"
+        },
+        {
+            "acro": "FIFO",
+            "full": "First In First Out"
+        },
+        {
+            "acro": "FLOPS",
+            "full": "FLoating-Point Operations Per Second"
+        },
+        {
+            "acro": "FOSS",
+            "full": "Free and Open Source Software"
+        },
+        {
+            "acro": "FP",
+            "full": "Function Programming"
+        },
+        {
+            "acro": "FPGA",
+            "full": "Field Programmable Gate Arrays"
+        },
+        {
+            "acro": "FPU",
+            "full": "Floating Point Unit"
+        },
+        {
+            "acro": "FS",
+            "full": "File System"
+        },
+        {
+            "acro": "FSB",
+            "full": "Front Side Bus"
+        },
+        {
+            "acro": "FSM",
+            "full": "Finite State Machine"
+        },
+        {
+            "acro": "FuSa",
+            "full": "FUnctional SAfety"
+        },
+        {
+            "acro": "FW",
+            "full": "FirmWare"
+        },
+        {
+            "acro": "GDB",
+            "full": "GNU DeBugger"
+        },
+        {
+            "acro": "GCC",
+            "full": "GNU Compiler Collection"
+        },
+        {
+            "acro": "GDI",
+            "full": "Graphics Device Interface"
+        },
+        {
+            "acro": "GNOME",
+            "full": "GNU Network Object Model Environment"
+        },
+        {
+            "acro": "GNU",
+            "full": "GNU's Not Unix"
+        },
+        {
+            "acro": "GPG",
+            "full": "GNU Privacy Guard"
+        },
+        {
+            "acro": "GPL",
+            "full": "GNU General Public License"
+        },
+        {
+            "acro": "GPU",
+            "full": "Graphics Processing Unit"
+        },
+        {
+            "acro": "GUI",
+            "full": "Graphical User Interface"
+        },
+        {
+            "acro": "HDR",
+            "full": "High Dynamic Range "
+        },
+        {
+            "acro": "HDMI",
+            "full": "High-Definition Multimedia Interface"
+        },
+        {
+            "acro": "HTC",
+            "full": "High-Throughput Computing"
+        },
+        {
+            "acro": "IF",
+            "full": "InterFace"
+        },
+        {
+            "acro": "IO",
+            "full": "Input/Output "
+        },
+        {
+            "acro": "IC",
+            "full": "Integrated Circuit"
+        },
+        {
+            "acro": "ICMP",
+            "full": "Internet Control Message Protocol"
+        },
+        {
+            "acro": "IDE",
+            "full": "Integrated Development Environment"
+        },
+        {
+            "acro": "IoT",
+            "full": "Internet Of Things"
+        },
+        {
+            "acro": "IPv4",
+            "full": "Internet Protocol version 4"
+        },
+        {
+            "acro": "IPv6",
+            "full": "Internet Protocol version 6 "
+        },
+        {
+            "acro": "IR",
+            "full": "Intermediate Representation"
+        },
+        {
+            "acro": "IRC",
+            "full": "Internet Relay Chat"
+        },
+        {
+            "acro": "ISA",
+            "full": "Instruction Set Architecture"
+        },
+        {
+            "acro": "ISP",
+            "full": "Image Signal Processor"
+        },
+        {
+            "acro": "IT",
+            "full": "Information Technology"
+        },
+        {
+            "acro": "I2C",
+            "full": "Inter-Integrated Circuit"
+        },
+        {
+            "acro": "I2S",
+            "full": "Integrated Interchip Sound"
+        },
+        {
+            "acro": "JFET",
+            "full": "Junction Field-Effect Transistor"
+        }
+    ]
+}
