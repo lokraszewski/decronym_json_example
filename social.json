@@ -1,0 +1,39 @@
+{
+	"lol": [
+		{
+			"acronym": "LOL",
+			"comment": "Popular element of Internet slang. It was first used almost exclusively on Usenet, but has since become widespread in other forms of computer-mediated communication and even face-to-face communication.",
+			"full": "Laughing Out Loud"
+		}
+	],
+	"afaik": [
+		{
+			"acronym": "AFAIK",
+			"full": "As far as I know"
+		}
+	],
+	"imo": [
+		{
+			"acronym": "IMO",
+			"full": "In my opinion"
+		}
+	],
+	"IMHO": [
+		{
+			"acronym": "IMHO",
+			"full": "In my humble/honest opinion"
+		}
+	],
+	"NSFW": [
+		{
+			"acronym": "NSFW",
+			"full": "Not safe for work"
+		}
+	],
+	"TLDR": [
+		{
+			"acronym": "TLDR",
+			"full": "Too long; Didn’t read"
+		}
+	]
+}
